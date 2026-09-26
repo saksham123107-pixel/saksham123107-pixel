@@ -1,6 +1,3 @@
-Full new file below — now with a real animated typing effect under the banner, plus the █ cursor in the terminal. Copy everything inside the box:
-
-```markdown
 <h1 align="center">Hey, I'm PRIMEx</h1>
 
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:05070d,50:0e1626,100:1f6feb&height=220&section=header&text=PRIMEx&fontSize=64&fontColor=ffffff&desc=EMULATOR%20MODDING%20·%20DISCORD%20BOTS%20·%20WINDOWS%20TOOLS&descSize=15&descAlignY=75&animation=fadeIn" alt="Banner" width="100%" />
