@@ -1,6 +1,3 @@
-Copy everything inside the box below — nothing else:
-
-```markdown
 <h1 align="center">Hey <img src="https://raw.githubusercontent.com/sindresorhus/sindresorhus/refs/heads/main/cat-typing.gif" height="30px" width="30px"> I'm NULLPLAYER</h1>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e1626,100:1f6feb&height=140&section=header&text=NULLPLAYER&fontSize=42&fontColor=ffffff" alt="Banner" width="100%" />
