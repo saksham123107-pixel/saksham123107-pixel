@@ -1,32 +1,40 @@
-<h1 align="center">Hey  I'm NULLPLAYER</h1>
+Full new file below — now with a real animated typing effect under the banner, plus the █ cursor in the terminal. Copy everything inside the box:
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e1626,100:1f6feb&height=140&section=header&text=NULLPLAYER&fontSize=42&fontColor=ffffff" alt="Banner" width="100%" />
+```markdown
+<h1 align="center">Hey, I'm PRIMEx</h1>
+
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:05070d,50:0e1626,100:1f6feb&height=220&section=header&text=PRIMEx&fontSize=64&fontColor=ffffff&desc=EMULATOR%20MODDING%20·%20DISCORD%20BOTS%20·%20WINDOWS%20TOOLS&descSize=15&descAlignY=75&animation=fadeIn" alt="Banner" width="100%" />
+
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2DD4BF&center=true&vCenter=true&width=500&lines=Emulator+Modder;Discord+Bot+Developer;Reverse+Engineer;App+Developer" alt="Typing SVG" /></a>
+</p>
 
 ```txt
-$ whoami
-┌────────────────────────────────────────────────┐
-│  nullplayer@emudeck                            │
-│  alias  ::  saksham123107-pixel                │
-│  role   ::  emulator_modder                    │
-│           app_developer · windows_toolsmith    │
-│  diving ::  c++ deep · rust deep               │
-└────────────────────────────────────────────────┘
+$ whoami --verbose
+
+  user ......... PRIMEx
+  handle ....... saksham123107-pixel
+  location ..... india · working worldwide
+
+$ ls ./roles/
+
+  drwxr-xr-x   emulator_modder      msi · bluestacks
+  drwxr-xr-x   discord_bot_dev      bots · automation · communities
+  drwxr-xr-x   reverse_engineer     binaries · internals · how-it-works
+  drwxr-xr-x   app_developer        c# · python · shipping
 
 $ cat mission.txt
-> modding emulators — msi app player & bluestacks.
-> building apps & windows tools people actually use.
-> c# · python today, c++ · rust tomorrow. always shipping.
 
-$ cat focus.md
-[01] emulator modding — msi app player & bluestacks  [active]
-[02] app development — c# · python                   [active]
-[03] orbit optimizer — windows tweaking utility      [active]
-[04] going deep — c++ · rust                         [grinding]
-[05] frontend — typescript · javascript              [active]
-[06] discord communities & bots                      [active]
-[07] ship, break, fix, repeat                        [side-quest]
+  "mod emulators. build bots & tools.
+   reverse what others ship."
 
-$ _
+$ ./focus --now
+
+  [●] c++ deep-dive           [●] rust deep-dive
+  [●] orbit optimizer v1.x    [●] discord automation
+  [●] typescript frontend     [○] side-quests
+
+$ █
 ```
 
 ---
@@ -44,13 +52,13 @@ $ _
 <div align="center">
 
 <img src="https://img.shields.io/badge/Emulator_Modding-00ffff?style=for-the-badge&logo=android&logoColor=000&color=00ffff" height="32">
-<img src="https://img.shields.io/badge/App_Development-00ff9f?style=for-the-badge&logo=dotnet&logoColor=000&color=00ff9f" height="32">
-<img src="https://img.shields.io/badge/Windows_Tools-ff00ff?style=for-the-badge&logo=windows&logoColor=000&color=ff00ff" height="32">
-<img src="https://img.shields.io/badge/Discord_Communities-ff1744?style=for-the-badge&logo=discord&logoColor=000&color=ff1744" height="32">
+<img src="https://img.shields.io/badge/Discord_Bot_Dev-00ff9f?style=for-the-badge&logo=discord&logoColor=000&color=00ff9f" height="32">
+<img src="https://img.shields.io/badge/Reverse_Engineering-ff00ff?style=for-the-badge&logo=ghidra&logoColor=000&color=ff00ff" height="32">
+<img src="https://img.shields.io/badge/App_Development-ff1744?style=for-the-badge&logo=dotnet&logoColor=000&color=ff1744" height="32">
 
-<img src="https://img.shields.io/badge/C++_Deep_Dive-00ffff?style=for-the-badge&logo=cplusplus&logoColor=000&color=00ffff" height="32">
-<img src="https://img.shields.io/badge/Rust_Deep_Dive-ff9f00?style=for-the-badge&logo=rust&logoColor=000&color=ff9f00" height="32">
-<img src="https://img.shields.io/badge/Glassmorphism_UI-8a2be2?style=for-the-badge&logo=css3&logoColor=000&color=8a2be2" height="32">
+<img src="https://img.shields.io/badge/Windows_Tools-00ffff?style=for-the-badge&logo=windows&logoColor=000&color=00ffff" height="32">
+<img src="https://img.shields.io/badge/C++_Deep_Dive-ff9f00?style=for-the-badge&logo=cplusplus&logoColor=000&color=ff9f00" height="32">
+<img src="https://img.shields.io/badge/Rust_Deep_Dive-8a2be2?style=for-the-badge&logo=rust&logoColor=000&color=8a2be2" height="32">
 <img src="https://img.shields.io/badge/Python_Automation-00bfff?style=for-the-badge&logo=python&logoColor=000&color=00bfff" height="32">
 
 </div>
@@ -67,7 +75,7 @@ $ _
 | :--- | :--- |
 | 🔥 **CORE** | <img src="https://img.shields.io/badge/C%23-050510?style=for-the-badge&logo=csharp&logoColor=00ffff&color=050510" height="30"> <img src="https://img.shields.io/badge/Python-050510?style=for-the-badge&logo=python&logoColor=00ff9f&color=050510" height="30"> <img src="https://img.shields.io/badge/C++-050510?style=for-the-badge&logo=cplusplus&logoColor=ff00ff&color=050510" height="30"> <img src="https://img.shields.io/badge/Rust-050510?style=for-the-badge&logo=rust&logoColor=ff9f00&color=050510" height="30"> <img src="https://img.shields.io/badge/TypeScript-050510?style=for-the-badge&logo=typescript&logoColor=7df9ff&color=050510" height="30"> <img src="https://img.shields.io/badge/JavaScript-050510?style=for-the-badge&logo=javascript&logoColor=ff1744&color=050510" height="30"> |
 | 🖥️ **DESKTOP & MODDING** | <img src="https://img.shields.io/badge/.NET-050510?style=for-the-badge&logo=dotnet&logoColor=00ffff&color=050510" height="30"> <img src="https://img.shields.io/badge/Win32_API-050510?style=for-the-badge&logo=windows&logoColor=7df9ff&color=050510" height="30"> <img src="https://img.shields.io/badge/WebView2-050510?style=for-the-badge&logo=microsoftedge&logoColor=00ff9f&color=050510" height="30"> <img src="https://img.shields.io/badge/Emulators-050510?style=for-the-badge&logo=android&logoColor=00ff9f&color=050510" height="30"> <img src="https://img.shields.io/badge/CMake-050510?style=for-the-badge&logo=cmake&logoColor=ff1744&color=050510" height="30"> <img src="https://img.shields.io/badge/Vite-050510?style=for-the-badge&logo=vite&logoColor=ff9f00&color=050510" height="30"> |
-| 🚀 **AUTH & SHIP** | <img src="https://img.shields.io/badge/Discord_OAuth2-050510?style=for-the-badge&logo=discord&logoColor=00ffff&color=050510" height="30"> <img src="https://img.shields.io/badge/KeyAuth-050510?style=for-the-badge&logo=keycdn&logoColor=ff00ff&color=050510" height="30"> <img src="https://img.shields.io/badge/Custom_Setup_Engine-050510?style=for-the-badge&logo=InnoSetup&logoColor=7df9ff&color=050510" height="30"> <img src="https://img.shields.io/badge/Git-050510?style=for-the-badge&logo=git&logoColor=ff1744&color=050510" height="30"> |
+| 🚀 **BOTS, RE & SHIP** | <img src="https://img.shields.io/badge/Discord_Bots-050510?style=for-the-badge&logo=discord&logoColor=00ffff&color=050510" height="30"> <img src="https://img.shields.io/badge/Reverse_Engineering-050510?style=for-the-badge&logo=ghidra&logoColor=ff00ff&color=050510" height="30"> <img src="https://img.shields.io/badge/KeyAuth-050510?style=for-the-badge&logo=keycdn&logoColor=7df9ff&color=050510" height="30"> <img src="https://img.shields.io/badge/Custom_Setup_Engine-050510?style=for-the-badge&logo=InnoSetup&logoColor=00ff9f&color=050510" height="30"> <img src="https://img.shields.io/badge/Git-050510?style=for-the-badge&logo=git&logoColor=ff1744&color=050510" height="30"> |
 
 <br>
 
@@ -99,3 +107,4 @@ $ _
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bottom Line" width="100%" />
 </div>
 ```
+
