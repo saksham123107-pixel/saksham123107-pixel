@@ -1,6 +1,6 @@
 <h1 align="center">Hey, I'm PRIMEx</h1>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e1626,100:1f6feb&height=140&section=header&text=NULLPLAYER&fontSize=42&fontColor=ffffff" alt="Banner" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e1626,100:1f6feb&height=140&section=header&text=PRIMEx&fontSize=42&fontColor=ffffff" alt="Banner" width="100%" />
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2DD4BF&center=true&vCenter=true&width=500&lines=Emulator+Modder;Discord+Bot+Developer;Reverse+Engineer;App+Developer" alt="Typing SVG" /></a>
 </p>
