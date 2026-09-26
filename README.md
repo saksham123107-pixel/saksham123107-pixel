@@ -1,6 +1,6 @@
 <h1 align="center">Hey, I'm PRIMEx</h1>
 
-<img src="https://raw.githubusercontent.com/saksham123107-pixel/saksham123107-pixel/main/banner.webp" alt="Banner" width="100%" />
+<p align="center"><img src="https://media.giphy.com/media/GFLB1pCmhgvIDSJTvp/giphy.gif" alt="Banner" height="320" /></p>
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2DD4BF&center=true&vCenter=true&width=500&lines=Emulator+Modder;Discord+Bot+Developer;Reverse+Engineer;App+Developer" alt="Typing SVG" /></a>
 </p>
