@@ -1,6 +1,6 @@
 <h1 align="center">Hey, I'm PRIMEx</h1>
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:05070d,50:0e1626,100:1f6feb&height=220&section=header&text=PRIMEx&fontSize=64&fontColor=ffffff&desc=EMULATOR%20MODDING%20·%20DISCORD%20BOTS%20·%20WINDOWS%20TOOLS&descSize=15&descAlignY=75&animation=fadeIn" alt="Banner" width="100%" />
+<img src="https://media.giphy.com/media/GFLB1pCmhgvIDSJTvp/giphy.gif" alt="Banner" width="100%" />
 
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2DD4BF&center=true&vCenter=true&width=500&lines=Emulator+Modder;Discord+Bot+Developer;Reverse+Engineer;App+Developer" alt="Typing SVG" /></a>
@@ -25,14 +25,14 @@ $ cat mission.txt
   "mod emulators. build bots & tools.
    reverse what others ship."
 
-$ ./focus --now
-
-  [●] c++ deep-dive           [●] rust deep-dive
-  [●] orbit optimizer v1.x    [●] discord automation
-  [●] typescript frontend     [○] side-quests
-
 $ █
 ```
+
+### $ ./focus --now
+
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1200&color=2DD4BF&center=true&vCenter=true&width=620&lines=%5B%E2%97%8F%5D+c%2B%2B+deep-dive+%C2%B7+%5B%E2%97%8F%5D+rust+deep-dive;%5B%E2%97%8F%5D+orbit+optimizer+v1.x+%C2%B7+%5B%E2%97%8F%5D+discord+automation;%5B%E2%97%8F%5D+typescript+frontend+%C2%B7+%5B%E2%97%8B%5D+side-quests" alt="Focus" /></a>
+</p>
 
 ---
 
@@ -104,4 +104,3 @@ $ █
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bottom Line" width="100%" />
 </div>
 ```
-
