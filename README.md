@@ -1,4 +1,4 @@
-guns.lol blocks scrapers (couldn't pull it), and YouTube only gave me the channel name — but you've told me everything I need. Updated README with your real stack and links:
+Copy everything inside the box below — nothing else:
 
 ```markdown
 <h1 align="center">Hey <img src="https://raw.githubusercontent.com/sindresorhus/sindresorhus/refs/heads/main/cat-typing.gif" height="30px" width="30px"> I'm NULLPLAYER</h1>
@@ -96,14 +96,9 @@ $ _
   <a href="https://www.youtube.com/@PRIME_H.4X" target="_blank"><img align="center" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white&color=FF00FF" alt="YouTube"/></a>
   <a href="https://discord.gg/qaeupnP5f2" target="_blank"><img align="center" src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white&color=00FFFF" alt="Discord"/></a>
   <a href="https://guns.lol/saksham18" target="_blank"><img align="center" src="https://img.shields.io/badge/guns.lol-%2Fsaksham18-8a2be2?style=for-the-badge" alt="guns.lol"/></a>
-  <!-- TODO: add your Gmail badge here -->
 </p>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bottom Line" width="100%" />
 </div>
 ```
-
-Updated bio for your profile settings: `Emulator modder (MSI & BlueStacks) · app dev · C# Python → C++ Rust · building ORBIT OPTIMIZER`
-
-Two swaps from last version: Discord invite is now your `qaeupnP5f2` (not the one from the app code), and guns.lol is linked as a badge. If you tell me your Gmail I can add that badge too.
