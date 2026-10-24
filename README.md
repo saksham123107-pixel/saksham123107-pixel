@@ -52,7 +52,20 @@ I enjoy understanding how software works internally, improving existing systems,
 
 ---
 
-## Featured Project
+## Featured Projects
+
+### PRIME SKILLS
+
+One command installs **99 elite AI coding skills** — reverse engineering, CTF, security audit, code review, testing, web dev — into every AI and every IDE (Claude Code, Codex, Cursor, Windsurf, Qoder, Gemini and more). Offline-first, zero dependencies.
+
+<p>
+  <a href="https://github.com/saksham123107-pixel/PRIME">
+    <img src="https://img.shields.io/badge/Repository-PRIME%20SKILLS-1F6FEB?style=for-the-badge&logo=github&logoColor=white" alt="PRIME SKILLS"/>
+  </a>
+  <a href="https://github.com/saksham123107-pixel/PRIME/releases/tag/v1.0.0">
+    <img src="https://img.shields.io/badge/Release-v1.0.0-2DD4BF?style=for-the-badge&logo=tag&logoColor=white" alt="v1.0.0"/>
+  </a>
+</p>
 
 ### ORBIT OPTIMIZER
 
@@ -64,6 +77,16 @@ A Windows optimization and performance toolkit focused on practical system confi
   </a>
   <a href="https://github.com/saksham123107-pixel/ORBIT-OPTIMIZER/releases/latest">
     <img src="https://img.shields.io/badge/Latest%20Release-Download-1F6FEB?style=for-the-badge&logo=windows&logoColor=white" alt="Latest Release"/>
+  </a>
+</p>
+
+### NUTELLA-SHADER
+
+A live, tunable OpenGL post-processing shader injected into BlueStacks — Windows DLL (MinHook + GL pipeline) with a PyQt6 real-time control panel.
+
+<p>
+  <a href="https://github.com/saksham123107-pixel/NUTELLA-SHADER-SRC">
+    <img src="https://img.shields.io/badge/Source%20Code-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="NUTELLA-SHADER"/>
   </a>
 </p>
 
@@ -97,12 +120,12 @@ A Windows optimization and performance toolkit focused on practical system confi
 
 | Area                   | Focus                                        |
 | ---------------------- | -------------------------------------------- |
-| 🖥️ Windows            | Desktop applications, Win32, system tooling  |
-| 📱 Emulators           | Customization, configuration, performance    |
-| 🤖 Discord             | Bots, automation, moderation, infrastructure |
-| 🔬 Reverse Engineering | Software internals, binaries, research       |
-| ⚡ Performance          | Optimization and system tuning               |
-| 🧩 Applications        | Desktop tools and developer utilities        |
+| Windows                | Desktop applications, Win32, system tooling  |
+| Emulators              | Customization, configuration, performance    |
+| Discord                | Bots, automation, moderation, infrastructure |
+| Reverse Engineering    | Software internals, binaries, research       |
+| Performance            | Optimization and system tuning               |
+| Applications           | Desktop tools and developer utilities        |
 
 ---
 
